@@ -1,4 +1,1 @@
-
-## 333
-
-<iframe src="http://codeguide.bootcss.com/" width="500px" height = "1000px" frameborder="0" > </iframe>
+<a style='text-align: center' targer='_blank' href = 'http://codeguide.bootcss.com/'>HTML\CSS编码规范 by @mdo</a>
